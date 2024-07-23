@@ -1,0 +1,23 @@
+{
+  "name": "gms-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleiltonSillva/gms-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleiltonSillva/gms-tests/issues"
+  },
+  "homepage": "https://github.com/CleiltonSillva/gms-tests#readme",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  }
+}
